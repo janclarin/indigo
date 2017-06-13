@@ -1,6 +1,6 @@
 # main text of home
 name: Jan Clarin
-bio: I love ramen. Code, too.
+bio: Loves ramen. Code, too.
 
 # twitter summary info
 description: My little corner of the internet.
@@ -54,7 +54,7 @@ email: hi@janclarin.com
 authors:
     janclarin:
         name: Jan Clarin
-        bio: I love ramen. Code, too.
+        bio: Loves ramen. Code, too.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: janclarin
