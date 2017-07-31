@@ -5,8 +5,8 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 ## About
-Graduated from the University of Calgary (Canada!).
-Interned as a software developer at
+Graduated from the University of Calgary, Canada. Working as a software
+engineer at Google. Interned as a software developer at
 [Nureva Inc.](https://www.nureva.com) and [Microsoft](/interning-at-microsoft).
 
 Currently learning photography with a Nikon D7000 and taking #selfies with
