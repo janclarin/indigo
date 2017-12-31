@@ -49,6 +49,7 @@ github: janclarin
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
+# lanyrd: mylanyrd
 email: hi@janclarin.com
 
 authors:
@@ -93,11 +94,12 @@ show-author: false
 # do you want some animations?
 animation: false
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
